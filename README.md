@@ -1,2 +1,2 @@
 # Ecoleta
- React + ReactNative Expo + Typescript + NodeJS Express
+ React + ReactNative Expo + Typescript + NodeJS Express + SQLite
